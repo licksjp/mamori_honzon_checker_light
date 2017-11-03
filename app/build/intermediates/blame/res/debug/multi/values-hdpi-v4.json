@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*3/mamori_honzon_checker_light/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

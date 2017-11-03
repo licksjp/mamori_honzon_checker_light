@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

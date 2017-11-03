@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/88e7c19c20e74be21b5362860409abf50dd7232e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4219fb01b08de4126fe4a1ac330f83b9c08505ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e6654d225a4dc00b0baaecc9b513332d683f51c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc0fcae0cffc0387c9b942244fe69e955b3c3517/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/3d4d03817998be983db78afe9a0e3c740560712b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b12de9df7946e7225611d6340bafdca4519c5e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b07d1e9b349f15b34b62df74a4b06c956ab0445a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e0611694550c54a1314c13f0a43055fc90a01b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/d5edfcdbc9d0070622ac56d38cd73429884ef0c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_40b032880e43c5df6aebd6febfd2402de4f5273b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c85fdb40d69c71ddfb23fdb01bece2bd50b7e682/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_0c7766a4a06e034c436f0f8ddfab10d63a7bc007.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/4979ed6c640abb7ef6d04c5a14f3a1f7eaa83230/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51bdaa99d6464f81b3945060f07f0cfc3bd37566/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/a2703749772100bf904c0cf14a3ce685c060cfdf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb33dbdbc020d3ad53b761a20b34afc578cd90b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/4f888d34479d6a059ba7f51946958a1109e2356b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb887c1d3d52aae6a93ae7bf13c0b7dc191bd22c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e543ea5e102e6ce38333b321723f1c136e7860f9/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_58f0800b3c453135abedef1d3bc1bf118be1afe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/52b687aa229ac687df1334a31c63d9a1be912770/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2107a540390c2a772d819fc1e0b791549f545e32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/cc7901880165b2c3a931d67dc2396ceff690a5b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfd9837ff64e0d7fc489860b97cbb892debbb032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/9b8086d46ce376d304ed70a8b93551aafcf01440/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b17498850ff816f91cc788f6a75d37f38af36d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b0c80db9e2cbc8e1494f2da60fb3e336a4457ace/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41f92654a24860b96b38296ac665746c8bb11749/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/5f0ed8fdf857313e401faa40ca26e1c4d5f77a36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_979eb78f9e0d5d2c11ec8295b8408839f6594264/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/a742a18719b92be5f4b613bcbea0725e25b5e674/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8ec909cceb3c35663a6c7adaaf1158dbe307fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/fedf2a155b26c5e2b5d29ee4d8bad4e06b1998f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_9dfeb5fbea53eb56df07227ce4906cba2ba96a20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/a6d4adc6dfcb5f4360c5682b3e602d2bb62396f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6d4429e06ed099c65442389f26d26c6ac30cb94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/5a9098db7136ff6772a2cc55f409a144c7046404/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e05ae53cdbae00cf33f7f2c8ae0e3041766a37dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/6414b9d5bc056883bb7eca3191898bc141aa444f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09adb83d8060105b95be07eae570e4e8f9de6fa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/a96cb413b950f07993ba89bc9f4c653f1d01406e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19cf632fe0b0c0a6e52642ff189728b7ed5f8e7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef4e3b24f63a8832ec348a395270a51519762d93">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9956512875771ed3fbb3afd9957235077184e5a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/bf90f928c5887afc14221ef6a7628a482cd75274/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7cecca8f8cc1373d1e87615b4a8684f0dd070ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/329fdefc36c0429225407cb2215545b347bbba7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc45a79f37b19376c67cf73bacbbe6cf8a5cc556/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/6d358ea1ac8a8686883881b7a225d47edae3667f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6467d70d9f95612032858146efbf6280bac2b29/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/d94058d80ed5b4a3a32c0024f18cbea559472653/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_b2ad97992880aae253f43172765c0eec8ec2b9b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/42524f35ff6bf6719c53e370c5a0650b43cf8336/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_55a1f5d528449195ecc6a9f1718671e8416982be.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/1b00ba9706ee9f797bd98ac05aa08882155574a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_497c7e3e66e37fb9f45ac5c7c7208e72b908bbc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_25b0c01db75e80081a21860a09a16f4a87e5e4c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/f575af95f7a35a4b39a37dca09e3de3631172a54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fedfddfaae69b75e13b08b6f2743606e3195fae0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/57a8db2a68e53d7ab3ea0a2ce16e380e9da92a9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_c91961927e26d5ef15d0810c84a0b61cd22a9745.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e2cfed907f64b8fd45a78ef3c3e915e3004a7e7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ca5d63e001f418769b3e6f89eec0501c3fde537/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ace4e054549cbd0779dc51e5687af007be7d60c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88d55bf6b537e1ca2af7a4c7389772babe14b4f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/65a1164e813448c6628f357602c6af0bec6b335d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e610c71991fe19921bdd691d124eb534e8f7d4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/164fd601a76f89ffa726452a0c9c5d9766ec987a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d036a9b5e36eac710fda69ef066600ab94335dd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/113397c3385c6081dea0c048c36d55ee73073cb9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_891c39cc2267d4edf5a039cdb5dfddf590528e98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/7ca648029f899bce500b697a37b541c8dec23bf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c2ef710fd782e29f9103542f5ec0acde890edd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/8d2b2acdbf0d681024325e0052fe87b96c2a1a30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_e1bea68002c153a368cb50d3e9b99f0992283f10.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c75a474f642645ed11c2c39672ce72f51271d310/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_143f7950e3ec1d19484e36821f9d57f6deab1a97/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/038593cc14dc1880cbd033ffa83210086b151a8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_9cf786c3d554fc0fda233a32584431df185910c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a595d20d9e78c3761c3c048d6c0fff544d507075/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ac76c7914999a0e083bc19430bfdda05a7df8fd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf4115ae455c34a7622baf1a433babb4c8e18ac7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/1f7faf8103ff1ee89014d5a607c0c004b0595aff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f75d4d6908fc38bb4a7d76948477e313513790b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ec5bb382f5e9ca1368e0f57a513e7ef802f27f59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_2c21f52da2995d1b61d80d13125dbf39d3e20321.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/4bfdecee1f01fb023ef0067284214a04302df861/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21551c1c374eddac6b52da02135dbf0563658f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/1f406ca387f678462f6c74f47deffa66c8692df6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e57fe155cea810fb2ba5fe9ffabcb197ecf81d1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4e06b59e5f2787e64dc0803edf83b1ea0d8eeb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/29e5cb67f25bcaf06ff15463d34d5cef733cfe5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_af50d50132adca4812e214ba82292f8b4043ef6c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/1b1d963fdb51ca1f2914e1863646589720cdacbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9d730f2e71842a924efdb08f3b0787b2df4d21e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/fd4f6be04637a636cb7f4ff09751708aa9ae1ea6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_33f879ca3da44c07c5b57a788dbfad25146bcd3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/1f406ca387f678462f6c74f47deffa66c8692df6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e57fe155cea810fb2ba5fe9ffabcb197ecf81d1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_d4e06b59e5f2787e64dc0803edf83b1ea0d8eeb7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e1763cdf03d87fa6af2379878cafef480242e2c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c48d4426ebef79a6d27d01eaa8a7649bdc5df72e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ed0aad2d2a617bd77c2ff5d40f566a8c4712bd3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8935ff40033992f4140e375b06f78dc964e03ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/54d26379ca55e4f417e9c9ee8f86092aeaef13f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_b2f61f11d3e2c2e5abf3878377e871e9f363803a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/34f20c7793afca379dcb34538153a50760bb1049/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_aca1ad3bcb325e02a7b5df63964b5ed06e2df890.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b4734e0200681a2f07d9edb37bf684a0a115c28b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0320952abe8c11575472663083b6f888a096bf95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/85e8afe267f4738a0fb27a34ac0687a50eb81079/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21cd4f797cb48d46dcc182b630564267f5816b30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e2df4a70947682c524da16bd21d58158a5696f52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a2903010219ef2b67915e1ef56320a03820b382/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/9e9423ca2431b4d7ed66c8fb5faef5d6fb43b1f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fa657cf022682881690cc8b144e737332e07ee5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/0f73d289c4e8c13fdda35298c3fefb4f3e268da4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b592264035dc2e1fc4de27c4b9e27407b8e18fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/49b3a5f00a1c20b29d07bbbb855f2ffae8c2786f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_cae81d2e5761349abe2b66a3f93bbb1009546b3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/44e05499c93cab89f9817a6e72c9407f2b7fedc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b463b92b4f408d3e4aded8e12b3a17aa2a4f957/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b2c266afd1f4d75403de89ce4d1e435742521a9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_224123c4d29e37537dabbc27f4a434a36e76296e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/bf30d7408e1beeeccbfead6817f15a14602b8b6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9ef9bddad80221587baf44ca117040da5900daa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ea3bcb9fc8e3b9a735941ecd1966ab297a19bee8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2447169c27583db0ef2a7852fa1d82d01d03295f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/113397c3385c6081dea0c048c36d55ee73073cb9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_891c39cc2267d4edf5a039cdb5dfddf590528e98/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b232a7c004d5ed220b4926b39332e1d5d6f41c3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_0ad8f18f988ef579fecd45c8926bb85714e5282b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b2c266afd1f4d75403de89ce4d1e435742521a9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_224123c4d29e37537dabbc27f4a434a36e76296e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/fdf85a1e0fe848f4ed3e08fc9a1cc5b595d41532/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_d93777724bd5cad6573c11fe2ff89e59a315257a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/a742a18719b92be5f4b613bcbea0725e25b5e674/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8ec909cceb3c35663a6c7adaaf1158dbe307fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/6ccfe13ca00d6bebf97246133fb09298031dce00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61220a5145d47518a64a92d535e4d38829ab1a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/0115bc0a57c654fa207645080433db1e91b2321b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be6187ca620bab1b52636d062703cd6f43086564/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/5f0ed8fdf857313e401faa40ca26e1c4d5f77a36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_979eb78f9e0d5d2c11ec8295b8408839f6594264/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c75a474f642645ed11c2c39672ce72f51271d310/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_143f7950e3ec1d19484e36821f9d57f6deab1a97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/0169d19d630bda9d2e5eca82c11c81aeefd87821/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d60fa0cb26f519ceecea4d1854dd94db33b2bad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/093065326ceb54f484d00d50ada8868d54deaec7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_77082dc61d13f6b98c52bb9217c949eab4ea8daf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/5a9098db7136ff6772a2cc55f409a144c7046404/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e05ae53cdbae00cf33f7f2c8ae0e3041766a37dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/43b8a64a3fbbb8332edfbaba318fa0dba4a2dc49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_437e2297dcae4848ee2ebaaa0a003b37625e5b3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/5bf57af940a2e93384ae16253aa73894b71f4e6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30358807b86eb383220a65615bc36187ae36b6d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/73473b342ae2884086073f1abb580f1492dbdb67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6ee1eccfdbc5d7174b1715e280fe9e96d22d941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/0a0a43cca8b444845ba139a42fd40e9f897b80cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f5853fff3bb5d764adc54156e53042a2d629ec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e2df4a70947682c524da16bd21d58158a5696f52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a2903010219ef2b67915e1ef56320a03820b382/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e4fe2637bca87c1b5ca8c26522ca638d990d1209/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b87811eb5025ba4a05593f5da1ad04b707636628/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/8ba63bf995c459595aed747d67c60568241affdd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33eba1d603a966d83859584bb9ffe3d2876ded2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/1b1d963fdb51ca1f2914e1863646589720cdacbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9d730f2e71842a924efdb08f3b0787b2df4d21e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/1b00ba9706ee9f797bd98ac05aa08882155574a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_497c7e3e66e37fb9f45ac5c7c7208e72b908bbc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/a2703749772100bf904c0cf14a3ce685c060cfdf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb33dbdbc020d3ad53b761a20b34afc578cd90b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ac9f3308bd296e48ac7ffd49cab40e9fd7e29bcf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da23704c89144ff325bcaaceae9896cb28406b59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/0115bc0a57c654fa207645080433db1e91b2321b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be6187ca620bab1b52636d062703cd6f43086564/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c5c40e5279dc6054746b930cb8baa2d71b9090d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a820f6d4aa78c06fcee9d173a01e283625bc65d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/50189274c8a55e4c72afd0c6b71832dc28752277/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4dfc2ac9d5c968414de6bd059b95e2a42417eb1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/0082529fc85cea893e91a5a82ae1aac4547d7686/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ac3b05b48921e4f4c9312e53f85d67f43738b1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/607604436ab26a53f464355fb628f45f93f0d230/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_df871cea2b8390d0ae42089bd679e271054abe3c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/6d358ea1ac8a8686883881b7a225d47edae3667f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6467d70d9f95612032858146efbf6280bac2b29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b28d9ec6c1482adea4d9fad603f1349cf108831c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1aee73fb7110d45d293145fc86fddf08689de87c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24a9b222c8dd8fa9680b64540c1f6a604782ca03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/73a186c1d462763e01a9df9360a7f1242556e274/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e438425fe7b3369a750cb8b793d0f2588400b1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/17aefe420ce5c6a699139eb4a8db50c959c237c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f07439e3a6b9674c2506c4f0fd464b9ff6c3cf11/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/d66622e1ec06a16df6576ff5c70937a4f85ec2ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_fae0913b123cb146e159a4a51c88542607e6d9ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c7408837c365227df50e60b7686ae8e162fce087/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_539ee2cd233f0706d3cd68a5426902797b7e1d2b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/f6e0c6c2c83c68fae05dec9b11b8054098d7dd53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f5e805b62bb7edfa63a47f43580533fd42ecd14/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/41a01c3583f8b7d4b8166101d3697285074fc559/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_927db7423ee4f51e1b9b0ee1a3a6d09b3da8df03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e319d7fa11e67eb4efd7b5a70146f45e80fc0e67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_e912ae31d97bb6f65d60e84ef99a481b55ad1f40.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3069cd1f0094c03ec57b491374c8dca2eb81d82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b56fd1e838c530abdf20849634970020e2fd1182/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c99aaa28330364dfb6453fa6e572a8ef4ce3529b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/5382e84459478df9c1e7b08ee368a633e16b6b08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_1e54dd429146aee7f8f7329f475d1b18ef523442.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/03c9c1ee2e01a76e3689d0c5a067a7acd33ba344/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d546c63920b638b84676a7198006d9c541b53f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/3c10ffc305a70242bec7c700bfe313a56e1725f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f61202ec37ab7a325940b73967ebf6ab58df520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/73473b342ae2884086073f1abb580f1492dbdb67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6ee1eccfdbc5d7174b1715e280fe9e96d22d941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/4e354bdcc81c7283c2d3e4e3bfb22f127d12de1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11a5cfe507ef6c10a36ac1dbf1dc7c713629e107/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e7e1822f236e8dc30d7c329872468ebd5d378d45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_12860153ae3cbe21dcc69ffb7f71ebe284c4c8f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c7a66ccfa36a37b8f05102c6567d6a5e720a6be5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_91bb3e5729e1dcbb642984873c625a280f3e46fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/66f2c3fa405cec0c378e24331b7182b2d02b428f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_294a2ca2777a5b0dc19b2a1491580385e4249730.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ea3bcb9fc8e3b9a735941ecd1966ab297a19bee8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2447169c27583db0ef2a7852fa1d82d01d03295f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b533f90e4cc63c3b0a5c96ba751d537ed7d62371/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_a8e62a141dba0a03f2106d54d116cce73c23ecb1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/8ba63bf995c459595aed747d67c60568241affdd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33eba1d603a966d83859584bb9ffe3d2876ded2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1462984e0d444a888bc107e716bc549fa1484fc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/fd4b686324a7f573a6192dd4cae07384af88c584/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ff27bbfea18b4bf9fdcf5f8cc1d8b595081b8f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/85e8afe267f4738a0fb27a34ac0687a50eb81079/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21cd4f797cb48d46dcc182b630564267f5816b30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/17aefe420ce5c6a699139eb4a8db50c959c237c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f07439e3a6b9674c2506c4f0fd464b9ff6c3cf11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e543ea5e102e6ce38333b321723f1c136e7860f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6a818c408c79614a5b14125c12db4e989458708/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/0082529fc85cea893e91a5a82ae1aac4547d7686/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ac3b05b48921e4f4c9312e53f85d67f43738b1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/f28fb4957134a95033de058c78a3add75230eb05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3be2841a872999bfa84869b9bc579c5a22633e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e1763cdf03d87fa6af2379878cafef480242e2c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c48d4426ebef79a6d27d01eaa8a7649bdc5df72e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b28d9ec6c1482adea4d9fad603f1349cf108831c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1aee73fb7110d45d293145fc86fddf08689de87c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/1f7faf8103ff1ee89014d5a607c0c004b0595aff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f75d4d6908fc38bb4a7d76948477e313513790b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/65a1164e813448c6628f357602c6af0bec6b335d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e610c71991fe19921bdd691d124eb534e8f7d4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ff3014e8120a24c7e8e09fd475705b9a8a8920e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_8e4df55f6d1e6d521db8344218f81fc63662d4ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ed0aad2d2a617bd77c2ff5d40f566a8c4712bd3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8935ff40033992f4140e375b06f78dc964e03ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/a8a9d47b13097d84e1dc8c998be5b45ecaba0a5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_8d14cdcd2f0a96c4df6c32974263b1c93d14fed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c04b6fd869ce23cd80e4970c7ea18fb88d762b1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_81fa60cca6bce8a3af057d06d346ac679302e056.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ff8c9aa4431dcc18c1bdb35fa0513d8d5b13d14f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cf77eff742320df0fd71948508c3cb8c2ef5c5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/dad2be1e62ff873b4b9d52c9155715fc82e63bc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_9f8dec7ce9b09ee189cde9cd807c7e0d37a55cda.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/247995865cfb3ca6458ea1fe6e43a25e3e932e58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20219939b6a4ba0c855c72f72f4aa6fa896be785/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a595d20d9e78c3761c3c048d6c0fff544d507075/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/4bfdecee1f01fb023ef0067284214a04302df861/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21551c1c374eddac6b52da02135dbf0563658f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/f9ed9efe75c58b7b8832cc82fee1ee0fbe32cf9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_185d1f6c61acca596a12f9213431f470c7e4b428/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/8791ea59d947cc6e05b4d4050aef0d17a47044cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a95330d6273c1d107e1bfbdf1188830993092725/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/bf30d7408e1beeeccbfead6817f15a14602b8b6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9ef9bddad80221587baf44ca117040da5900daa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/bf674e99a46246fbad2a67146e1555d54fdb0f05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01630601b41a0a24a6dab4a6df28587f4495212b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/0f73d289c4e8c13fdda35298c3fefb4f3e268da4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b592264035dc2e1fc4de27c4b9e27407b8e18fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e32a8a86949bdf44ee0e0d6c54074e6331dc625d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e020d723a4f8d2bafb6b09382e0fe5a864681a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c4ae142058d488e3a88de5645edafcb92c319b95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_1b284f2f18aed3412916ab28ce119900df007e23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/3d45769400d872afea17079d27640f7533394498/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98796cd639b6e76c7518a95cda3c9c1cb783f4f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/dd4e302c679da0ea7bbb034d5f2d01efbd7fd9d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_3b732e07e1cb7f449e1134b83ceaa8d978044f2f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/5c68b668e337f9b1bb42d845394feae76723124b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0591105032c1b332c75caa4b9f4ab7398c904f4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b2bf2c9c3fd1a688149187ca35e07a2323495104/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ce0cb6098b865803b84323696681d6ca6c0484c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/92d0983ae6c5e5eaf8fc0926e89ad5869b853a19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23dea0a125326a624d6f4061efc7de8d60bb9dba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/f7c12fd8926ef3fc9146af09cca3b3563d1be721/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_584eba19099e986caed8b745aa85b9261885fb98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/cc7901880165b2c3a931d67dc2396ceff690a5b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfd9837ff64e0d7fc489860b97cbb892debbb032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/52b687aa229ac687df1334a31c63d9a1be912770/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2107a540390c2a772d819fc1e0b791549f545e32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/99c9d2b8a78bb24a24571c9847b19a52b21fce63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e1182ce704f7d6a54b79f2a3387fa3155689868/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/92dda97027ca8a4a3fa559149846c628cf2c0ba4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6781dc328a22c1b96d33596e2647a8748d28ce3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/590d5bfe89503fa00c7278d7ba3b5beae13acf0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_659753a27ea5f76e617a40b0c19490b51a576063.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c4b4460a81a7040cf709fb12bcd7dcff8b9cfc20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26c4f98b0fedb5a87e8dce94152a8df2aaa7f046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/6ccfe13ca00d6bebf97246133fb09298031dce00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61220a5145d47518a64a92d535e4d38829ab1a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/df61be03d131ea3525d1765482b2ab48d0cc7a7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_452fcc08051067b31c44b24d802220c790955a32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/81711eb1adc0cd28b8e8cb95a4b7206d1db7caa5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e426810b3a9e405c479c8c276de1509846feb981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c5c40e5279dc6054746b930cb8baa2d71b9090d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a820f6d4aa78c06fcee9d173a01e283625bc65d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/a6d4adc6dfcb5f4360c5682b3e602d2bb62396f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6d4429e06ed099c65442389f26d26c6ac30cb94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/1f406ca387f678462f6c74f47deffa66c8692df6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e57fe155cea810fb2ba5fe9ffabcb197ecf81d1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4e06b59e5f2787e64dc0803edf83b1ea0d8eeb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e734552fed06cc75392b2a0494c58f14757926f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_43a7f2d803ba779a33bfef64624c4accb7fc709b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/03c9c1ee2e01a76e3689d0c5a067a7acd33ba344/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d546c63920b638b84676a7198006d9c541b53f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c52ce49638506777d445e78e58bae54866477fcc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6bf8f7db351565e700670488cd140d75e5d9cdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/8f9965f5353a120caf7f133af4e63be4981c1a5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_c1a711fd0ef6bc991f1efd9b94e18480f7fcd2c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d734a85eb38417e3e72b60517a74e78a0d72ddc">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9956512875771ed3fbb3afd9957235077184e5a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e04ee82baa07dee7fb4267bb9d2f1889b3625a02/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/42ccb0d6ea787bd11fd464c9f6a4058a8fb78fac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_baff3bc27d113ea2bd70c0cf849a1f9574115f29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b0c80db9e2cbc8e1494f2da60fb3e336a4457ace/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41f92654a24860b96b38296ac665746c8bb11749/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/62c444d2319d5b5ebeb3b82bcbb8b9c5f8044060/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c731ae554a88abcfd37756f614ae293f54ca8be1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/682c98f4904648ff68ea4fa656f6449cef5cf179/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d65e691f9f94f46bb0b10bd3daeeaf86880f7ea4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/d84b60220eaab06066d6526996970abe4656c7bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14f8657604fdfb2c35895c6927d4cd283236500d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/f1a40551394cb447d9e6564b8c20a27aebc84335/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_7fe90b3992d782a9f83caa3aeca5130f6f824eb0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/7095d38effdcfbe75966a5d9b283c5ae166dd4e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23a35eb8bbeb46818cda638f42df7f1d85dbd38d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bd9008d8b37f28449f72cf4c59e2355137d4d9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/4ace07f110b73d58e7e1b09fe9d35333e63182fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f2a42a847bee00aaa9be7334965ef98c3f9cfc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/5c68b668e337f9b1bb42d845394feae76723124b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0591105032c1b332c75caa4b9f4ab7398c904f4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b10b0ca32b04d01dea5f166983cc532531966ae1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_9d7cd789ad650f1e9516138a4ee094b532321d21.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/dbeec389441456f11edab6005f878fc266794445/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6da8670d9ee1f400b5dc7d391da17f559b487881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b516009cb63042d4257d8d4536279ebb605fe950/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_553fe3236f375e9738f5af6b67a03eae053fa4e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ab24c979f652d60e708a7a725d806cdf8a965101/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_feedd2b399df7c67e8982db5ee34dd591ed0c118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/3b0b72480e65a7bd377f3343300a51ee80a25ee6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_b653dbfc084b8176bb9dcdc5c0834e53cdfd4d89.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/92dda97027ca8a4a3fa559149846c628cf2c0ba4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6781dc328a22c1b96d33596e2647a8748d28ce3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_25b0c01db75e80081a21860a09a16f4a87e5e4c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/9e8574ec6417e4f483bd19b793ff5d259dd25dab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5693ec2623c69ae123f583514f896391458551e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/91415de9e7af926e49ded3c0a17d88c9486b9b20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_2931960e2ac59522c3b96daf939268e49bf536af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ac76c7914999a0e083bc19430bfdda05a7df8fd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_bf4115ae455c34a7622baf1a433babb4c8e18ac7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/01e7ff938599a87f72b6dca4373c12e99d57fa47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bc0bc775493d23424a9667d4172cc152dba7f3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ac76c7914999a0e083bc19430bfdda05a7df8fd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf4115ae455c34a7622baf1a433babb4c8e18ac7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/9893d6b359e872468970d7ef8fd85d585be60ff1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56a445020a71798bd9534313be7ad03f995b78e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/57fad37d5445aa70f1c89569ac0ca338c61e1fe4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_8e2eca310d0fdc874dfed9468ed264cd624257aa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/20a09d5d6fc42de44eabebe29204fd01115ec41f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_646b94b0f2602d8c70fda4a1b398848999e4cf2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/892e53e16def8cd29cb0759e3be93f11d0d4cab9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_567c16d7cc000ddf31dd427acdda4a9173104ec1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/195328845d9a23fa30470fc04f1790c8e10f897c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12d883361e9e0f9e6773a46fae1d3c080c426802/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/606d5a2f3e4ac100aa0ac4ffd7f783b3223dba1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d97ba7b4bc1901415ea9d27adb4dffcbd79e28c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/a96cb413b950f07993ba89bc9f4c653f1d01406e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19cf632fe0b0c0a6e52642ff189728b7ed5f8e7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/7095d38effdcfbe75966a5d9b283c5ae166dd4e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23a35eb8bbeb46818cda638f42df7f1d85dbd38d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/88e7c19c20e74be21b5362860409abf50dd7232e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4219fb01b08de4126fe4a1ac330f83b9c08505ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/682c98f4904648ff68ea4fa656f6449cef5cf179/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d65e691f9f94f46bb0b10bd3daeeaf86880f7ea4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b1ed0b76f93038115afe354f9926a59a64675a7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_4725bef4c6ef9c3ed0cf87f1d21ed633a6532288.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/92d0983ae6c5e5eaf8fc0926e89ad5869b853a19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23dea0a125326a624d6f4061efc7de8d60bb9dba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c52ce49638506777d445e78e58bae54866477fcc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6bf8f7db351565e700670488cd140d75e5d9cdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/97291d5c827a1c17994f72208888ec5d4cf4a350/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2509e9ccd6964af459c47816bc600e7900123134/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/81711eb1adc0cd28b8e8cb95a4b7206d1db7caa5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e426810b3a9e405c479c8c276de1509846feb981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/01e7ff938599a87f72b6dca4373c12e99d57fa47/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b3f29303ae33e08e28bd6129f9147a5b040a85a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/c54abb02635c16d3c8878b74657dd9ee5ddb1989/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bac8f8e45f1d98b5ba858259f41d52a954de6fa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ac76c7914999a0e083bc19430bfdda05a7df8fd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf4115ae455c34a7622baf1a433babb4c8e18ac7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/b57a6e55757cb4c6d3859367f408bf5b86168757/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f213533c92212ecfc7e757a9947a28cbfd63baf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/99c9d2b8a78bb24a24571c9847b19a52b21fce63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e1182ce704f7d6a54b79f2a3387fa3155689868/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/606d5a2f3e4ac100aa0ac4ffd7f783b3223dba1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d97ba7b4bc1901415ea9d27adb4dffcbd79e28c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/e32a8a86949bdf44ee0e0d6c54074e6331dc625d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e020d723a4f8d2bafb6b09382e0fe5a864681a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/d104fa47ee612d1dee3b0dba45b88b1009ebdd13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b28e7d0591973351399405a57d45ba3264c74ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/ac43e59589296107c21f283a223ef417af167b14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_2718d3d8b2086a97004198934dbda437d89d8705.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef615ecb05cfeb192635b1d9cdb149f88bb8fdbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/8463557713e6c3f08166d33f4c0faa9503e8784a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_d7c657d0a96e083e8ae4e24e0708c749ccf9ce1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/0ac983d2a682ec8cceda60d8e16a1324e04992b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/pre-dexed/debug/classes_33c5766c29c6297b769978299ee1d869adb7ba53.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/20a09d5d6fc42de44eabebe29204fd01115ec41f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_646b94b0f2602d8c70fda4a1b398848999e4cf2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/3d4d03817998be983db78afe9a0e3c740560712b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b12de9df7946e7225611d6340bafdca4519c5e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hirofumi_Kayamoto/.android/build-cache/f575af95f7a35a4b39a37dca09e3de3631172a54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Pay/0.Hinagata/1.src/1/Base_file/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fedfddfaae69b75e13b08b6f2743606e3195fae0/classes.dex" />
+    </item>
+
+</items>

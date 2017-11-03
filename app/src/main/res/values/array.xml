@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Menu_List">
+        <item>@string/Menu_List1</item>
+        <item>@string/Menu_List2</item>
+        <item>@string/Menu_List3</item>
+    </string-array>
+
+<string-array name="Menu_Title_List">
+    <item>@string/Menu1_Help_Title</item>
+    <item>@string/Menu2_Config_Title</item>
+    <item>@string/Menu3_Manual_Title</item>
+</string-array>
+    <string-array name="Menu_HelpTop_List">
+        <item>@string/Menu1_Help_List0_No_select</item>
+        <item>@string/Menu1_Help_List1</item>
+        <item>@string/Menu1_Help_List2</item>
+    </string-array>
+    <string-array name="Menu_ConfigTop_List">
+        <item>@string/Menu2_Config_List0_No_select</item>
+        <item>@string/Menu2_Config_List1</item>
+        <item>@string/Menu2_Config_List2</item>
+        <item>@string/Menu2_Config_List3</item>
+    </string-array>
+    <!--2-1.音の設定-->
+    <string-array name="Menu_Config1_Sound_List">
+        <item>@string/Menu2_Config_List0_No_select</item>
+        <item>@string/Menu2_Config_List1</item>
+        <item>@string/Menu2_Config_List2</item>
+        <item>@string/Menu2_Config_List3</item>
+    </string-array>
+    <!--3 守り本尊リスト-->
+    <string-array name="Mamori_Honzon_List">
+        <item>@string/MamoriHonzon_List0</item>
+        <item>@string/MamoriHonzon_List1</item>
+        <item>@string/MamoriHonzon_List2</item>
+        <item>@string/MamoriHonzon_List3</item>
+        <item>@string/MamoriHonzon_List4</item>
+        <item>@string/MamoriHonzon_List5</item>
+        <item>@string/MamoriHonzon_List6</item>
+        <item>@string/MamoriHonzon_List7</item>
+        <item>@string/MamoriHonzon_List8</item>
+        <item>@string/MamoriHonzon_List9</item>
+        <item>@string/MamoriHonzon_List10</item>
+        <item>@string/MamoriHonzon_List11</item>
+    </string-array>
+    <string-array name="Voice_Mamori_Honzon_List">
+        <item>@string/Voice_MamoriHonzon_List0</item>
+        <item>@string/Voice_MamoriHonzon_List1</item>
+        <item>@string/Voice_MamoriHonzon_List2</item>
+        <item>@string/Voice_MamoriHonzon_List3</item>
+        <item>@string/Voice_MamoriHonzon_List4</item>
+        <item>@string/Voice_MamoriHonzon_List5</item>
+        <item>@string/Voice_MamoriHonzon_List6</item>
+        <item>@string/Voice_MamoriHonzon_List7</item>
+        <item>@string/Voice_MamoriHonzon_List8</item>
+        <item>@string/Voice_MamoriHonzon_List9</item>
+        <item>@string/Voice_MamoriHonzon_List10</item>
+        <item>@string/Voice_MamoriHonzon_List11</item>
+    </string-array>
+    <string-array name="mamoriHonzon_List">
+        <item>@string/MamoriHonzonList8_Amidanyorai</item>
+        <item>@string/MamoriHonzonList1_Senjyukannon</item>
+        <item>@string/MamoriHonzonList2_KokuuzouBosatu</item>
+        <item>@string/MamoriHonzonList2_KokuuzouBosatu</item>
+        <item>@string/MamoriHonzonList3_MonjyuBosatu</item>
+        <item>@string/MamoriHonzonList4_FugenBosatu</item>
+        <item>@string/MamoriHonzonList4_FugenBosatu</item>
+        <item>@string/MamoriHonzonList5_Seisibosatu</item>
+        <item>@string/MamoriHonzonList6_DainichiNyorai</item>
+        <item>@string/MamoriHonzonList6_DainichiNyorai</item>
+        <item>@string/MamoriHonzonList7_FudouMyouou</item>
+        <item>@string/MamoriHonzonList8_Amidanyorai</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  ca-app-pub-7821909322657049/2722563316-->
+    <!-- Menu Dialog ここから-->
+    <!-- バージョンダイアログ ここから -->
+    <string name="Version_Title">バージョン</string>
+    <string name="VersionMessage">Ver:1.2.1.GooglePlay.20171002\n守り本尊チェッカー (Light)\nE-mail:licksjp@gmail.com\n(C)Copyrights licksjp All rights reserved</string>
+
+    <string name="admob_banner_ad">ca-app-pub-7821909322657049/2722563316</string>
+
+    <string name="Version_Menu">バージョン情報</string>
+    <string name="hello">Hello World, Base_file!</string>
+    <string name="app_name">守り本尊チェッカー</string>
+    <!-- 広告表示 ここから -->
+    <string name="app_namwe_advance">Base screen(広告欄）</string>
+    <string name="app_name0">Activity0\nActivity1</string>
+    <string name="StartMessage">入力ボタンを押してください</string>
+	<string name="app_name1">広告主募集</string>
+    <string name="activity_animation_duration">300</string>
+    <string name="AllClear_Message">オールクリアしました</string>
+    <!-- 広告表示　ここまで -->
+
+    <!-- 共通部分 Base file ここから-->
+    <!--メインメニュー-->
+    <string name="Top_menu_No_Select">番号を選んでください\n1.守り本尊を求める\n\n\n\n\n\n\n\n番号:%1$d.無選択</string>
+    <string name="Top_menu_Select1">番号を選んでください\n1.守り本尊を求める\n\n\n\n\n\n\n\n番号:%1$d.守り本尊を求める</string>
+    <string name="Top_menu_Select2">番号を選んでください\n1.守り本尊を求める\n\n\n\n\n\n\n\n番号:%1$d.マニュアル</string>
+<!--選択肢1 守り本尊を求める-->
+    <!--誕生日入力 生まれた年西暦4桁入力-->
+    <string name="Input_Born_Year">生まれた年を西暦4桁で\n入れて下さい\n\n\n\n\n\n\n\n生まれた年(西暦4桁):%1$d年</string>
+    <!--誕生日入力 生まれた月入力-->
+    <string name="Input_Born_Month">生まれた月を\n入れて下さい\n\n\n\n\n\n\n\n生まれた月:%1$d月</string>
+    <!--誕生日入力 生まれた日入力-->
+    <string name="Input_Born_Day">生まれた日を\n入れて下さい\n\n\n\n\n\n\n\n生まれた日:%1$d日</string>
+    <!--守り本尊リスト-->
+    <!--０-->
+    <string name="MamoriHonzon_List0">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n阿弥陀如来(あみだにょらい)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List0">あなたの守り本尊はあみだにょらいです</string>
+
+    <!--1-->
+    <string name="MamoriHonzon_List1">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n千手観音菩薩(せんじゅかんのんぼさつ)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List1">あなたの守り本尊はせんじゅかんのんぼさつです</string>
+
+    <!--2-->
+    <string name="MamoriHonzon_List2">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n虚空蔵菩薩(こくうぞうぼさつ)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List2">あなたの守り本尊はこくうぞうぼさつです</string>
+
+    <!--3-->
+    <string name="MamoriHonzon_List3">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n虚空蔵菩薩(こくうぞうぼさつ)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List3">あなたの守り本尊は\nこくうぞうぼさつです</string>
+
+    <!--4-->
+    <string name="MamoriHonzon_List4">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n文殊菩薩(もんじゅぼさつ)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List4">あなたの守り本尊はもんじゅぼさつです</string>
+
+    <!--5-->
+    <string name="MamoriHonzon_List5">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n普賢菩薩(ふげんぼさつ)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List5">あなたの守り本尊はふげんぼさつです</string>
+
+    <!--6-->
+    <string name="MamoriHonzon_List6">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n普賢菩薩(ふげんぼさつ)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List6">あなたの守り本尊は\nふげんぼさつです</string>
+
+    <!--7-->
+    <string name="MamoriHonzon_List7">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n勢至菩薩(せいしぼさつ)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List7">あなたの守り本尊は\nせいしぼさつです</string>
+
+    <!--8-->
+    <string name="MamoriHonzon_List8">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n大日如来(だいにちにょらい)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List8">あなたの守り本尊は\nだいにちにょらいです</string>
+
+    <!--9-->
+    <string name="MamoriHonzon_List9">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n大日如来(だいにちにょらい)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List9">あなたの守り本尊は\nだいにちにょらいです</string>
+
+    <!--10-->
+    <string name="MamoriHonzon_List10">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n不動明王(ふどうみょうおう)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List10">あなたの守り本尊はふどうみょうおうです</string>
+
+    <!--11-->
+    <string name="MamoriHonzon_List11">西暦%1$d年%2$d月%3$d日\nあなたの守り本尊は\n阿弥陀如来(あみだにょらい)です\n\n\n\n\n\n\n入力ボタンを押して下さい</string>
+    <string name="Voice_MamoriHonzon_List11">あなたの守り本尊はあみだにょらいです</string>
+    <!--守り本尊リスト-->
+    <!--1.千手観音-->
+    <string name="MamoriHonzonList1_Senjyukannon">千の手と目を持ち、あらゆる衆生を救ってくださる仏様です。観音様の中でも功徳が大きく、「連華王」と呼ばれることもあります\n\n\nクリア:トップ画面\n入力ボタン:仏の写真</string>
+    <!--2.虚空蔵菩薩-->
+    <string name="MamoriHonzonList2_KokuuzouBosatu">智慧と福徳の仏様。\n無限の慈悲で限りないご利益を授けてくれます\n\n\nクリア:トップ画面\n入力ボタン:仏の写真</string>
+    <!--3.文殊菩薩-->
+    <string name="MamoriHonzonList3_MonjyuBosatu">「三人寄れば文殊の知恵」で知られる仏様。\n物事のあり方を正しく見極める力・判断力を意味する「知恵」を司り、その偉大な知恵で信仰する人を救い助けて下さいます\n\n\nクリア:トップ画面\n入力ボタン:仏の写真</string>
+    <!--4.普賢菩薩-->
+    <string name="MamoriHonzonList4_FugenBosatu">普賢(ふげん)とは、「全てにわたって賢い者」という意味。信仰する人を叱咤激励(しったげきれい)し、正しい道へと、導いてくださいます\n\n\nクリア:トップ画面\n入力ボタン:仏の写真</string>
+
+    <!--5.勢至菩薩-->
+    <string name="MamoriHonzonList5_Seisibosatu">観音菩薩と共に阿弥陀如来の脇待としてまつられている事が多い勢至菩薩(せいしぼさつ)。智慧の光ですべてのものを照らし、人々を迷いや苦しみから救い、悟りの境地に導いてくれる仏様です。\n\n\nクリア:トップ画面\n入力ボタン:仏の写真</string>
+
+    <!--6.大日如来-->
+    <string name="MamoriHonzonList6_DainichiNyorai">完全な悟りの境地に達せられた全ての仏の頂点にいる仏様。あらゆる願いに応じ、悟りの境地に導いてくれます。\n\n\nクリア:トップ画面\n入力ボタン:仏の写真</string>
+
+    <!--7.不動明王-->
+    <string name="MamoriHonzonList7_FudouMyouou">煩悩を打ち砕き、厳しいけれども精進する者は救済の手を差し伸べてくれる慈愛に満ちた仏様です。\n\n\nクリア:トップ画面\n入力ボタン:仏の写真</string>
+
+    <!--8.阿弥陀如来-->
+    <string name="MamoriHonzonList8_Amidanyorai">西方にある極楽浄土の球主。\n「南無阿弥陀仏」と唱えれば、必ず極楽に連れて行ってくれる仏様です。\n\n\nクリア:トップ画面\n入力ボタン:仏の写真</string>
+
+　　<string name="Bosatu_list1">千手観音菩薩(せんじゅかんのんぼさつ)</string>
+    <string name="Bosatu_list2">虚空蔵菩薩(こくうぞうぼさつ)</string>
+    <string name="Bosatu_list3">文殊菩薩(もんじゅぼさつ)</string>
+    <string name="Bosatu_list4">普賢菩薩(ふげんぼさつ)</string>
+    <string name="Bosatu_list5">勢至菩薩(せいしぼさつ)</string>
+    <string name="Bosatu_list6">大日如来(だいにちにょらい)</string>
+    <string name="Bosatu_list7">不動明王(ふどうみょうおう)</string>
+    <string name="Bosatu_list8">阿弥陀如来(あみだにょらい)</string>
+
+
+    <!-- ボイス　メッセージ -->
+    <string name="Talk_Message_Start">準備オーケーです、入力ボタンを押して下さい</string>
+    <string name="Clear"></string>
+    <!-- エラーダイアログ  ここから-->
+    <string name="Error_dialog_Title">エラーダイアログ</string>
+    <string name="Error_dialog_Message"></string>
+    <string name="OK">Ok</string>
+    <!-- エラーダイアログ  ここまで-->
+       <string name="Reference_Book_Title">参考文献</string>
+    <string name="Reference_Book_Message">タイトル:\n作者:\n出版社:\n定価:\nISBN:</string>
+    <!--Menu List -->
+    <string name="Menu_List1">1.ヘルプ</string>
+    <string name="Menu_List2">2.設定</string>
+    <string name="Menu_List3">3.使い方・マニュアル</string>
+    <!-- Menu2.音の設定 -->
+    <!-- Menu2-1.音の設定 バイブレーション -->
+    <string name="Menu2_1_List_Title">●バイブレーション</string>
+    <string name="Menu2_1_List1">1.バイブを有効にする</string>
+    <string name="Menu2_1_List2">2.バイブを無効にする</string>
+    <!-- Menu2-1.音の設定 バイブレーション -->
+    <string name="Menu2_2_List_Title">●音声読み上げ</string>
+    <string name="Menu2_2_List1">1.音声読み上げを有効にする</string>
+    <string name="Menu2_2_List2">2.音声読み上げを無効にする</string>
+    <!-- Menu2-.音の設定 ２音声読み上げ -->
+    <!--メニューのリスト1 -->
+    <!--1.ヘルプ -->
+    <string name="Menu1_Help_Title">●ヘルプ</string>
+    <string name="Menu1_Help_List0_No_select">0.無選択</string>
+    <string name="Menu1_Help_List1">1.バージョン</string>
+    <string name="Menu1_Help_List2">2.参考文献</string>
+    <!--2.設定-->
+    <string name="Menu2_Config_Title">●設定</string>
+    <string name="Menu2_Config_List0_No_select">0.無選択</string>
+    <string name="Menu2_Config_List1">1.音の設定</string>
+    <string name="Menu2_Config_List2">2.画面色</string>
+    <string name="Menu2_Config_List3">3.マイデータ</string>
+    <!--3.マニュアル-->
+    <string name="Menu3_Manual_Title">●使い方</string>
+    <string name="Menu3_Manual__No_select">0.無選択</string>
+    <string name="Menu3_Manual_List1">1.マニュアル</string>
+
+    <!-- Menu Dialog ここまで -->
+    <!-- バージョンダイアログ ここまで -->
+    <!-- 共通部分 Base file ここまで-->
+    <!-- ボタン配列 -->
+    <string name="Button_one"><b>1</b></string>
+    <string name="Button_two"><b>2</b></string>
+    <string name="Button_three"><b>3</b></string>
+    <string name="Button_four"><b>4</b></string>
+    <string name="Button_five"><b>5</b></string>
+    <string name="Button_six"><b>6</b></string>
+    <string name="Button_seven"><b>7</b></string>
+    <string name="Button_eight"><b>8</b></string>
+    <string name="Button_nine"><b>9</b></string>
+    <string name="Button_zero"><b>0</b></string>
+    <string name="Button_clear"><b>クリア</b></string>
+    <string name="Button_EXE"><b>入力</b></string>
+</resources>

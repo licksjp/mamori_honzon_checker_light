@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/bf90f928c5887afc14221ef6a7628a482cd75274/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/bf90f928c5887afc14221ef6a7628a482cd75274/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

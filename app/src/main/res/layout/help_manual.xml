@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:gravity="center_vertical">
+
+<!--
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+    android:layout_weight="1"
+        >
+        -->
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+
+        />
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:layout_weight="1"
+        android:gravity="bottom"
+
+        >
+
+        <!--
+                <Space android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+        -->
+<!--
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:background="@color/material_grey_800"
+            android:gravity="bottom">
+
+-->
+        <!--
+            <jp.co.fullspeed.polymorphicads.PolymorphicAdsContainer
+                android:id="@+id/ad_container"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="@color/Lime"
+
+                />
+                -->
+<!--        </RelativeLayout>  -->
+
+<!--
+        <jp.adlantis.android.AdlantisView
+            android:id="@+id/adView"
+            android:text="広告"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@color/Lime"/>
+
+-->
+ </LinearLayout>
+
+</FrameLayout>
+
+
+<!--
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+    android:layout_weight="1"
+        >
+        -->
+<!--
+<WebView
+    android:id="@+id/webview"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    />
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layout_weight="1"
+    android:gravity="bottom"
+
+    >
+-->
+    <!--
+            <Space android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+    -->
+    <!--
+            <RelativeLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                android:background="@color/material_grey_800"
+                android:gravity="bottom">
+
+    -->
+<!--
+    <jp.co.fullspeed.polymorphicads.PolymorphicAdsContainer
+        android:id="@+id/ad_container"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/Lime"
+
+        />
+        -->
+    <!--        </RelativeLayout>  -->
+
+    <!--
+            <jp.adlantis.android.AdlantisView
+                android:id="@+id/adView"
+                android:text="広告"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="@color/Lime"/>
+
+    -->
+<!--
+</LinearLayout>
+
+</FrameLayout>
+
+-->
+<!--
+
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:gravity="center_vertical">
+-->
+<!--
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    -->
+    <!--
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        />
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+
+        >
+        -->
+<!--
+ android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        <Space android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+-->
+<!--
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/material_grey_800">
+
+            <jp.co.fullspeed.polymorphicads.PolymorphicAdsContainer
+                android:id="@+id/ad_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+        </RelativeLayout>
+
+-->
+
+<!--
+            <jp.co.fullspeed.polymorphicads.PolymorphicAdsContainer
+                android:id="@+id/ad_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"/>
+
+-->
+<!--
+    </LinearLayout>
+
+
+</LinearLayout>
+-->

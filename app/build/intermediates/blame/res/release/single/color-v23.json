@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

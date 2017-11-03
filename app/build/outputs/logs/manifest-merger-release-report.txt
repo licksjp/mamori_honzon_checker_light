@@ -1,0 +1,522 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:11:1-70:12
+	package
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:12:7-44
+		INJECTED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:14:7-34
+		INJECTED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:13:7-30
+		INJECTED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:11:11-69
+application
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:15:5-63:19
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/2dbc665792a3cda1388c2660982749eadff32612/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4bfb6586f1649f279aa9cc90d356a14a503be2ae/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/dbeec389441456f11edab6005f878fc266794445/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e8574ec6417e4f483bd19b793ff5d259dd25dab/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b516009cb63042d4257d8d4536279ebb605fe950/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/bf90f928c5887afc14221ef6a7628a482cd75274/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/e2cfed907f64b8fd45a78ef3c3e915e3004a7e7a/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/51509628af62669b225d074cff0596dff6f248be/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/d84b60220eaab06066d6526996970abe4656c7bb/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4e354bdcc81c7283c2d3e4e3bfb22f127d12de1c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/44e05499c93cab89f9817a6e72c9407f2b7fedc4/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/df61be03d131ea3525d1765482b2ab48d0cc7a7f/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/e4fe2637bca87c1b5ca8c26522ca638d990d1209/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/164fd601a76f89ffa726452a0c9c5d9766ec987a/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/c4b4460a81a7040cf709fb12bcd7dcff8b9cfc20/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4979ed6c640abb7ef6d04c5a14f3a1f7eaa83230/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9893d6b359e872468970d7ef8fd85d585be60ff1/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/56598997df17b71aa20fc5ae335c7ff985399cfa/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b56fd1e838c530abdf20849634970020e2fd1182/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/d104fa47ee612d1dee3b0dba45b88b1009ebdd13/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b4734e0200681a2f07d9edb37bf684a0a115c28b/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/73a186c1d462763e01a9df9360a7f1242556e274/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/0a0a43cca8b444845ba139a42fd40e9f897b80cf/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/e6654d225a4dc00b0baaecc9b513332d683f51c6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/3c10ffc305a70242bec7c700bfe313a56e1725f5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/c54abb02635c16d3c8878b74657dd9ee5ddb1989/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/adcef9523ebd39a93902d05205897692937efe36/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/6414b9d5bc056883bb7eca3191898bc141aa444f/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/329fdefc36c0429225407cb2215545b347bbba7b/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e9423ca2431b4d7ed66c8fb5faef5d6fb43b1f9/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/ac9f3308bd296e48ac7ffd49cab40e9fd7e29bcf/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b2bf2c9c3fd1a688149187ca35e07a2323495104/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/5bf57af940a2e93384ae16253aa73894b71f4e6e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4f888d34479d6a059ba7f51946958a1109e2356b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/97291d5c827a1c17994f72208888ec5d4cf4a350/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f9ed9efe75c58b7b8832cc82fee1ee0fbe32cf9a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9f9467ad2c8a53da524d47d7fbd13085b7069fa3/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/847bfadd48f28f975caf27385043226cbd85158b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/90230f123a227cc9317623a2db06836b7b88795f/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.github.navasmdc:MaterialDesign:1.4] /Users/Hirofumi_Kayamoto/.android/build-cache/ac76c7914999a0e083bc19430bfdda05a7df8fd9/output/AndroidManifest.xml:11:5-47
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/8d5963e782e404ec020d95b2f325cb21e286cddb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/8f24d7d10b32c3ab33ec3161fb80e54c1314f68c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/851b54c4ee7762d97aaafd3527883017df8f1cac/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/17b39af6520c8357ad964ea81c710d587411e798/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/6d671e994579e60db546bc9cae934e804b4d557b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/bf674e99a46246fbad2a67146e1555d54fdb0f05/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/62c444d2319d5b5ebeb3b82bcbb8b9c5f8044060/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/e9205dd3b5004c95d07f39ffa6ad6603aae80011/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:15:48-80
+	android:popupTheme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:16:41-90
+	android:icon
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:15:18-47
+	android:allowBackup
+		ADDED from [com.github.navasmdc:MaterialDesign:1.4] /Users/Hirofumi_Kayamoto/.android/build-cache/ac76c7914999a0e083bc19430bfdda05a7df8fd9/output/AndroidManifest.xml:11:18-44
+	android:theme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:17:9-68
+activity#mamori.honzon.checker.light.mamori_honzon_checker_light
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:18:9-25:20
+	android:screenOrientation
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:20:19-55
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:19:19-51
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:18:19-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:23:27-74
+activity#mamori.honzon.checker.light.bosatsu_list1
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:26:8-29:20
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:27:19-51
+	android:theme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:28:19-49
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:26:18-47
+activity#mamori.honzon.checker.light.bosatsu_list2
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:31:13-45
+	android:theme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:30:19-48
+activity#mamori.honzon.checker.light.bosatsu_list3
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:35:13-45
+	android:theme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:36:13-43
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:34:19-48
+activity#mamori.honzon.checker.light.bosatsu_list4
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:39:13-45
+	android:theme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:40:13-43
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:38:19-48
+activity#mamori.honzon.checker.light.bosatsu_list5
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:43:13-45
+	android:theme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:44:13-43
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:42:19-48
+activity#mamori.honzon.checker.light.bosatsu_list6
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:47:13-45
+	android:theme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:46:19-48
+activity#mamori.honzon.checker.light.bosatsu_list7
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:51:13-45
+	android:theme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:52:13-43
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:50:19-48
+activity#mamori.honzon.checker.light.bosatsu_list8
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:55:13-45
+	android:theme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:56:13-43
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:54:19-48
+activity#mamori.honzon.checker.light.Manual
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:59:13-45
+	android:theme
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:60:13-43
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:58:19-41
+uses-sdk
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:64:5-66:41
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/2dbc665792a3cda1388c2660982749eadff32612/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/03270273b36924da4cfe59aacd323afc318421a2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4bfb6586f1649f279aa9cc90d356a14a503be2ae/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/dbeec389441456f11edab6005f878fc266794445/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/0169d19d630bda9d2e5eca82c11c81aeefd87821/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/50189274c8a55e4c72afd0c6b71832dc28752277/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e8574ec6417e4f483bd19b793ff5d259dd25dab/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b516009cb63042d4257d8d4536279ebb605fe950/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/bf90f928c5887afc14221ef6a7628a482cd75274/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/e2cfed907f64b8fd45a78ef3c3e915e3004a7e7a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/51509628af62669b225d074cff0596dff6f248be/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/d84b60220eaab06066d6526996970abe4656c7bb/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4e354bdcc81c7283c2d3e4e3bfb22f127d12de1c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/44e05499c93cab89f9817a6e72c9407f2b7fedc4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/df61be03d131ea3525d1765482b2ab48d0cc7a7f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b57a6e55757cb4c6d3859367f408bf5b86168757/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f6e0c6c2c83c68fae05dec9b11b8054098d7dd53/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/e4fe2637bca87c1b5ca8c26522ca638d990d1209/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/164fd601a76f89ffa726452a0c9c5d9766ec987a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9b8086d46ce376d304ed70a8b93551aafcf01440/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/247995865cfb3ca6458ea1fe6e43a25e3e932e58/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/c4b4460a81a7040cf709fb12bcd7dcff8b9cfc20/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4979ed6c640abb7ef6d04c5a14f3a1f7eaa83230/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9893d6b359e872468970d7ef8fd85d585be60ff1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/56598997df17b71aa20fc5ae335c7ff985399cfa/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b56fd1e838c530abdf20849634970020e2fd1182/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/d104fa47ee612d1dee3b0dba45b88b1009ebdd13/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b4734e0200681a2f07d9edb37bf684a0a115c28b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f7c12fd8926ef3fc9146af09cca3b3563d1be721/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/73a186c1d462763e01a9df9360a7f1242556e274/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/0a0a43cca8b444845ba139a42fd40e9f897b80cf/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/e6654d225a4dc00b0baaecc9b513332d683f51c6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/3c10ffc305a70242bec7c700bfe313a56e1725f5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/c54abb02635c16d3c8878b74657dd9ee5ddb1989/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/adcef9523ebd39a93902d05205897692937efe36/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f28fb4957134a95033de058c78a3add75230eb05/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/6414b9d5bc056883bb7eca3191898bc141aa444f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/329fdefc36c0429225407cb2215545b347bbba7b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e9423ca2431b4d7ed66c8fb5faef5d6fb43b1f9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/ac9f3308bd296e48ac7ffd49cab40e9fd7e29bcf/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b2bf2c9c3fd1a688149187ca35e07a2323495104/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/5bf57af940a2e93384ae16253aa73894b71f4e6e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/7ca648029f899bce500b697a37b541c8dec23bf2/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4f888d34479d6a059ba7f51946958a1109e2356b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/97291d5c827a1c17994f72208888ec5d4cf4a350/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f9ed9efe75c58b7b8832cc82fee1ee0fbe32cf9a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9f9467ad2c8a53da524d47d7fbd13085b7069fa3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/847bfadd48f28f975caf27385043226cbd85158b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/90230f123a227cc9317623a2db06836b7b88795f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.github.navasmdc:MaterialDesign:1.4] /Users/Hirofumi_Kayamoto/.android/build-cache/ac76c7914999a0e083bc19430bfdda05a7df8fd9/output/AndroidManifest.xml:7:5-9:41
+MERGED from [me.drakeet.materialdialog:library:1.3.1] /Users/Hirofumi_Kayamoto/.android/build-cache/1f406ca387f678462f6c74f47deffa66c8692df6/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.0] /Users/Hirofumi_Kayamoto/.android/build-cache/ace4e054549cbd0779dc51e5687af007be7d60c7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/8d5963e782e404ec020d95b2f325cb21e286cddb/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/8f24d7d10b32c3ab33ec3161fb80e54c1314f68c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/851b54c4ee7762d97aaafd3527883017df8f1cac/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/17b39af6520c8357ad964ea81c710d587411e798/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/6d671e994579e60db546bc9cae934e804b4d557b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/bf674e99a46246fbad2a67146e1555d54fdb0f05/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/62c444d2319d5b5ebeb3b82bcbb8b9c5f8044060/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/e9205dd3b5004c95d07f39ffa6ad6603aae80011/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /Users/Hirofumi_Kayamoto/.android/build-cache/b6578c27786f2fc1f356ae9884f0d447486c3a7d/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:66:9-38
+		INJECTED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:65:9-34
+		INJECTED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:67:5-65
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:67:22-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:68:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4bfb6586f1649f279aa9cc90d356a14a503be2ae/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/dbeec389441456f11edab6005f878fc266794445/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/44e05499c93cab89f9817a6e72c9407f2b7fedc4/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b56fd1e838c530abdf20849634970020e2fd1182/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b4734e0200681a2f07d9edb37bf684a0a115c28b/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/6414b9d5bc056883bb7eca3191898bc141aa444f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/ac9f3308bd296e48ac7ffd49cab40e9fd7e29bcf/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/97291d5c827a1c17994f72208888ec5d4cf4a350/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:68:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:69:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4bfb6586f1649f279aa9cc90d356a14a503be2ae/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/dbeec389441456f11edab6005f878fc266794445/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/0a0a43cca8b444845ba139a42fd40e9f897b80cf/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/6414b9d5bc056883bb7eca3191898bc141aa444f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/ac9f3308bd296e48ac7ffd49cab40e9fd7e29bcf/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/97291d5c827a1c17994f72208888ec5d4cf4a350/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/Hirofumi_Kayamoto/Desktop/Android_appli/Android_Application/Work/*2017/Free/5.mamorihonzon_checker/1.src/*2/mamori_honzon_checker_light/app/src/main/AndroidManifest.xml:69:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4bfb6586f1649f279aa9cc90d356a14a503be2ae/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4bfb6586f1649f279aa9cc90d356a14a503be2ae/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4bfb6586f1649f279aa9cc90d356a14a503be2ae/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/4bfb6586f1649f279aa9cc90d356a14a503be2ae/output/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/dbeec389441456f11edab6005f878fc266794445/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/6414b9d5bc056883bb7eca3191898bc141aa444f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/ac9f3308bd296e48ac7ffd49cab40e9fd7e29bcf/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/dbeec389441456f11edab6005f878fc266794445/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/f5170dc5129e031501e0c22c147bf6a5de7f7a65/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/518bb43a5dcf25486430dde8fa376607d5916928/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e8574ec6417e4f483bd19b793ff5d259dd25dab/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e8574ec6417e4f483bd19b793ff5d259dd25dab/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e8574ec6417e4f483bd19b793ff5d259dd25dab/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e8574ec6417e4f483bd19b793ff5d259dd25dab/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e8574ec6417e4f483bd19b793ff5d259dd25dab/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e8574ec6417e4f483bd19b793ff5d259dd25dab/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/164fd601a76f89ffa726452a0c9c5d9766ec987a/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/164fd601a76f89ffa726452a0c9c5d9766ec987a/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/164fd601a76f89ffa726452a0c9c5d9766ec987a/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/164fd601a76f89ffa726452a0c9c5d9766ec987a/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/164fd601a76f89ffa726452a0c9c5d9766ec987a/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/164fd601a76f89ffa726452a0c9c5d9766ec987a/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/164fd601a76f89ffa726452a0c9c5d9766ec987a/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b56fd1e838c530abdf20849634970020e2fd1182/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b4734e0200681a2f07d9edb37bf684a0a115c28b/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/b56fd1e838c530abdf20849634970020e2fd1182/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/cfc845be60c87c1a0821b7a6f9b44f845e52a356/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/6414b9d5bc056883bb7eca3191898bc141aa444f/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/6414b9d5bc056883bb7eca3191898bc141aa444f/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9e0afff1a0cf202f15372eb41d198131de24607e/output/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/eb4c105559483efd644bfaa400dce1cf3d776fb2/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/329fdefc36c0429225407cb2215545b347bbba7b/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/329fdefc36c0429225407cb2215545b347bbba7b/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/329fdefc36c0429225407cb2215545b347bbba7b/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/329fdefc36c0429225407cb2215545b347bbba7b/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/329fdefc36c0429225407cb2215545b347bbba7b/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/97291d5c827a1c17994f72208888ec5d4cf4a350/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/97291d5c827a1c17994f72208888ec5d4cf4a350/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/97291d5c827a1c17994f72208888ec5d4cf4a350/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9f9467ad2c8a53da524d47d7fbd13085b7069fa3/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9f9467ad2c8a53da524d47d7fbd13085b7069fa3/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9f9467ad2c8a53da524d47d7fbd13085b7069fa3/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/9f9467ad2c8a53da524d47d7fbd13085b7069fa3/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/90230f123a227cc9317623a2db06836b7b88795f/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/90230f123a227cc9317623a2db06836b7b88795f/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Hirofumi_Kayamoto/.android/build-cache/90230f123a227cc9317623a2db06836b7b88795f/output/AndroidManifest.xml:20:20-65
